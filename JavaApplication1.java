@@ -18,6 +18,10 @@ public class JavaApplication1 {
         System.out.println("Testando GitHub");
         
          System.out.println("O proximo é o picole");
+        
+        int picoles = 50;
+        
+        System.out.println("Olá jovens");
     }
     
 }
